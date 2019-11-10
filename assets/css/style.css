@@ -1,18 +1,42 @@
-.headtext {
+h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
-    background-color: #4aaaa5;
     color: #ffffff;
 }
-.regtext {
+
+.name {
+    position: fixed;
+    padding: 30px;
+    margin: 0;
+    top: 0;
+    margin left: 50;
+    background-color: #4aaaa5;
+}
+
+p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
 }
 
 .header {
     color: #ffffff;
+    border: 10px;
     border-color: #cccccc;
+    position: fixed;
+
 }
 
 footer {
     background-color: #666666;
+}
+
+.navtext {
+    position: fixed;
+    padding: 30px;
+    margin: 0;
+    top: 0;
+    right: 0;
+}
+
+.maincontent {
+    padding 
 }
